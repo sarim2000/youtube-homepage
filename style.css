@@ -281,3 +281,73 @@ main {
 	border-style: solid;
 	border-color: gray;
 }
+.titlecomment{
+	display: flex;
+}
+
+.titlecomment img{
+	width: 24px;
+	height: 24px;
+	padding-right: 10px;
+}
+
+.titlecomment p{
+	padding-right: 15px;
+	padding-top: 3px;
+}
+
+.comment-section{
+	padding-top: 20px;
+}
+
+.titleinfo{
+	display: flex;
+	padding-top: 20px;
+}
+.titleinfo img{
+	width: 32px;
+	height: 32px;
+}
+
+.titleinfo input{
+	width: 827.125px;
+    margin-left: 20px;
+    border-left-width: 0px;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 1px;
+    border-color: gray;
+}
+
+main{
+	display: flex;	
+}
+.aside{
+	padding-left: 50px;
+}
+.cont1{
+	display: flex;
+	margin-bottom: 10px;
+}
+.cont1 img{
+	width: 168px;
+	height: 94px;
+}
+.cont1 h1{
+	font-size: large;
+	padding-left: 10px;
+}
+.cont1 p {
+	padding-left: 10px;
+	font-weight: 100;
+	padding-top: 10px;
+	color: gray;
+}
+.cont1 a{
+	color: inherit;
+	text-decoration: none;
+}
+.cont1 a:visited{
+	color: black;
+	text-decoration: none;
+}
